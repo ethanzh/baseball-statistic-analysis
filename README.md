@@ -1,4 +1,4 @@
-# Baseball-Statistic-Analysis
+# Baseball Statistic Analysis
 
 Analysis of various aspects of baseball statistics, including attendance and salaries.
 
